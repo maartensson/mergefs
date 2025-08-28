@@ -1,3 +1,3 @@
-module github.com/mamaart/mergefs
+module github.com/maartensson/mergefs
 
-go 1.21.9
+go 1.24.5
